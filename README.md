@@ -1,7 +1,6 @@
 # Event City TDD
 
 Event City trata-se do desenvolvimento TDD de uma API Rest com Java e Spring Boot.   
-O projeto é um "desafio" do curso Java Spring Expert da Devsuperior.
 
 
 ## Objetivo
